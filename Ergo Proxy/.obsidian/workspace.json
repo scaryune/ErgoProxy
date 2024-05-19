@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "9d9483bdd6a47eca",
+    "type": "split",
+    "children": [
+      {
+        "id": "70fbd5653aa3e2f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5237ca089c412878",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "55ca1e16f5a02748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "project fashion design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "963d92191ebfacde",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b18a5a0045f953c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4eaeca8c518205b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7beeb46ad14180b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "376fd77d1adc9754",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "89df47431ce1bb84",
+    "type": "split",
+    "children": [
+      {
+        "id": "8928cd4ebced5837",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b40bdddd2d0d934",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "project fashion design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ccaabc9285b891c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "project fashion design.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ad0562807b85d58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e4289e7038d7411",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "project fashion design.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "55ca1e16f5a02748",
+  "lastOpenFiles": [
+    "project fashion design.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "tryhackme-learning/Walking An Application.md",
+    "arch.md",
+    "links.md",
+    "networking/infrastructure/ansible.md",
+    "networking/networking-pics/DNS-1.png",
+    "coding/bugs/race-condition.md",
+    "coding/data-structures/trie.md",
+    "coding/coding-pics/DBMS-2.png",
+    "coding/coding-pics/DBMS-1.png",
+    "coding/databases/redis.md",
+    "coding/databases/MongoDB.md",
+    "coding/databases/DBMS.md",
+    "coding/version-control.md",
+    "coding/react-framework.md",
+    "coding/node.md",
+    "coding/math-lectures.md",
+    "Learn Ethical Hacking (CEH Journey)/Social Engineering.md",
+    "Learn Ethical Hacking (CEH Journey)/Nmap Tutorial to find Network Vulnerabilities.md",
+    "Learn Ethical Hacking (CEH Journey)/Google search operators the complete list.md",
+    "CTF-walkthroughs/vaccine-HTB.md",
+    "networking/ARPANET.md",
+    "networking/email.md",
+    "obsidian-help.md",
+    "trans.md",
+    "overthewire.md",
+    "README.md",
+    "Learning/2.Networking.md",
+    "Learning/1.FoundationalKnowledge.md",
+    "tryhackme-learning/pic/Pasted image 20231105135614.png",
+    "tryhackme-learning/pic/Pasted image 20231105135546.png",
+    "tryhackme-learning/pic/Pasted image 20231105135336.png",
+    "tryhackme-learning/pic/Pasted image 20231104141702.png",
+    "tryhackme-learning/pic/Pasted image 20231031183350.png",
+    "tryhackme-learning/pic/Pasted image 20231031183338.png",
+    "tryhackme-learning/pic/Pasted image 20231029191643.png",
+    "tryhackme-learning/pic/6e10e0fd0b6020d42873c218e1d37044.png.crdownload",
+    "tryhackme-learning/pic/8e11f5fcfc8fc6429fe35682797e2a24.jpg.crdownload",
+    "tryhackme-learning/pic/497e56c5522ca4932d720ae5fae32845.png.crdownload",
+    "tryhackme-learning/pic/72a3a5b98b737f422f58b78e11e82646.png.crdownload",
+    "tryhackme-learning/pic/Não confirmado 256152.crdownload",
+    "tryhackme-learning/pic/Não confirmado 70504.crdownload",
+    "tryhackme-learning/pic/Não confirmado 234922.crdownload",
+    "tryhackme-learning/pic",
+    "tryhackme-learning",
+    "tryhackme-practice"
+  ]
+}
