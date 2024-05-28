@@ -45,18 +45,6 @@ println!("Hello, World!");
 
 We use the `println!` macro to print text to the screen. The `"Hello, World!"` string is an argument to `println!()`. Finally, we end the line with a `;` which indicates that the expression is over.
 
-We will learn more about Rust macros in upcoming tutorials.
-
-- [](https://www.programiz.com/rust/hello-world#introduction)
-- [](https://www.programiz.com/rust/hello-world#rust-hello-world)
-- [](https://www.programiz.com/rust/hello-world#working-of-rust-hello-world-program)
-
-[
-
-  
-
-
-](https://www.programiz.com/rust/getting-started "Getting Started with Rust")# Rust Comments
 
 In computer programming, comments are lines of text used to describe the purpose of code. For example,
 
