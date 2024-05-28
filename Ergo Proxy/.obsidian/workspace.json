@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Languages/Go/6 - Go Additional Topics/Aula 5.md",
+                "file": "Study Languages/Python/1 - Python Introduction/Aula 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Languages/Go/6 - Go Additional Topics/Aula 5.md",
+                "file": "Study Languages/Python/1 - Python Introduction/Aula 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Languages/Go/6 - Go Additional Topics/Aula 5.md",
+                "file": "Study Languages/Python/1 - Python Introduction/Aula 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Languages/Go/6 - Go Additional Topics/Aula 5.md"
+                "file": "Study Languages/Python/1 - Python Introduction/Aula 1.md"
               }
             }
           }
@@ -149,42 +149,43 @@
   },
   "active": "55969c07266549d6",
   "lastOpenFiles": [
-    "Study Languages/Go/6 - Go Additional Topics/Aula 1.md",
-    "Study Languages/Go/6 - Go Additional Topics/Aula 2.md",
-    "Study Languages/Go/6 - Go Additional Topics/Aula 3.md",
-    "Study Languages/Go/6 - Go Additional Topics/Aula 4.md",
-    "Study Languages/Go/6 - Go Additional Topics/Aula 5.md",
-    "Study Languages/Go/6 - Go Additional Topics/Aula 8.md",
-    "Study Languages/Go/5 - Go Pointers & Interface/Aula 6.md",
-    "Study Languages/Go/5 - Go Pointers & Interface/Aula 5.md",
-    "Study Languages/Go/6 - Go Additional Topics",
-    "Study Languages/Go/5 - Go Pointers & Interface/Aula 4.md",
-    "Study Languages/Go/5 - Go Pointers & Interface/Aula 3.md",
-    "Study Languages/Go/5 - Go Pointers & Interface/Aula 2.md",
-    "Study Languages/Go/5 - Go Pointers & Interface/Aula 1.md",
-    "Study Languages/Go/4 - Go Functions/Aula 6.md",
-    "Study Languages/Go/5 - Go Pointers & Interface",
-    "Study Languages/Go/4 - Go Functions/Aula 5.md",
-    "Study Languages/Go/4 - Go Functions/Aula 4.md",
-    "Study Languages/Go/4 - Go Functions/Aula 3.md",
-    "Study Languages/Go/4 - Go Functions/Aula 2.md",
-    "Study Languages/Go/4 - Go Functions/Aula 1.md",
-    "Study Languages/Go/3 - Go Data Structures/Aula 6.md",
-    "Study Languages/Go/4 - Go Functions",
-    "Study Languages/Go/3 - Go Data Structures/Aula 5.md",
-    "Study Languages/Go/3 - Go Data Structures/Aula 4.md",
-    "Study Languages/Go/3 - Go Data Structures/Aula 3.md",
-    "Study Languages/Go/3 - Go Data Structures/Aula 2.md",
-    "Study Languages/Go/3 - Go Data Structures/Aula 1.md",
-    "Study Languages/Go/2 - Go Flow Control/Aula 7.md",
-    "Study Languages/Go/3 - Go Data Structures",
-    "Study Languages/Go/2 - Go Flow Control/Aula 6.md",
-    "Study Languages/Go/2 - Go Flow Control/Untitled",
-    "Study Languages/Go/2 - Go Flow Control",
-    "Study Languages/Go/1 - Go Introduction",
-    "Study Languages/Rust/8 - Rust Additional Topics",
-    "Study Languages/Rust/7 - Rust Modules and Packages",
-    "Study Languages/Rust/6 - Rust Error and Memory",
+    "Study Languages/Python/1 - Python Introduction/Aula 2.md",
+    "Study Languages/Python/1 - Python Introduction/Aula 3.md",
+    "Study Languages/Python/2 - Python Fundamentals/Aula 4.md",
+    "Study Languages/Python/2 - Python Fundamentals/Aula 3.md",
+    "Study Languages/Python/2 - Python Fundamentals/Aula 2.md",
+    "Study Languages/Python/2 - Python Fundamentals/Aula 1.md",
+    "Study Languages/Python/3 - Python Flow Control/Aula 5.md",
+    "Study Languages/Python/3 - Python Flow Control/Aula 4.md",
+    "Study Languages/Python/3 - Python Flow Control/Aula 3.md",
+    "Study Languages/Python/3 - Python Flow Control/Aula 2.md",
+    "Study Languages/Python/3 - Python Flow Control/Aula 1.md",
+    "Study Languages/Python/4 - Python Data types/Aula 6.md",
+    "Study Languages/Python/4 - Python Data types/Aula 5.md",
+    "Study Languages/Python/4 - Python Data types/Aula 4.md",
+    "Study Languages/Python/4 - Python Data types/Aula 3.md",
+    "Study Languages/Python/4 - Python Data types/Aula 2.md",
+    "Study Languages/Python/4 - Python Data types/Aula 1.md",
+    "Study Languages/Python/5 - Python Functions/Aula 8.md",
+    "Study Languages/Python/5 - Python Functions/Aula 7.md",
+    "Study Languages/Python/5 - Python Functions/Aula 6.md",
+    "Study Languages/Python/5 - Python Functions/Aula 5.md",
+    "Study Languages/Python/5 - Python Functions/Aula 4.md",
+    "Study Languages/Python/5 - Python Functions/Aula 3.md",
+    "Study Languages/Python/5 - Python Functions/Aula 2.md",
+    "Study Languages/Python/5 - Python Functions/Aula 1.md",
+    "Study Languages/Python/6 - Python Files/Aula 4.md",
+    "Study Languages/Python/11 - Additional Topic",
+    "Study Languages/Python/10 - Python Date and Time",
+    "Study Languages/Python/9 - Python Advanced Topics",
+    "Study Languages/Python/8 - Python Object & Class",
+    "Study Languages/Python/7 - Python Exception Handling",
+    "Study Languages/Python/6 - Python Files",
+    "CTF-walkthroughs/walkthrough-pics/vaccine-HTB-1.png",
+    "Study Languages/Python/5 - Python Functions",
+    "Study Languages/Python/4 - Python Data types",
+    "Study Languages/Python/3 - Python Flow Control",
+    "Study Languages/Python/2 - Python Fundamentals",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "networking/networking-pics/DNS-1.png",
@@ -195,7 +196,6 @@
     "tryhackme-learning/pic/Pasted image 20231105135336.png",
     "tryhackme-learning/pic/Pasted image 20231104141702.png",
     "tryhackme-learning/pic/Pasted image 20231031183350.png",
-    "tryhackme-learning/pic/Pasted image 20231031183338.png",
-    "tryhackme-learning/pic/Pasted image 20231029191643.png"
+    "tryhackme-learning/pic/Pasted image 20231031183338.png"
   ]
 }
