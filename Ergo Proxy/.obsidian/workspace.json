@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Languages/C ++/8 - Object Oriented Programming/Aula 1.md",
+                "file": "Study Languages/Javascript/9 - Miscellaneous/Aula 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Languages/C ++/8 - Object Oriented Programming/Aula 1.md",
+                "file": "Study Languages/Javascript/9 - Miscellaneous/Aula 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Languages/C ++/8 - Object Oriented Programming/Aula 1.md",
+                "file": "Study Languages/Javascript/9 - Miscellaneous/Aula 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Languages/C ++/8 - Object Oriented Programming/Aula 1.md"
+                "file": "Study Languages/Javascript/9 - Miscellaneous/Aula 10.md"
               }
             }
           }
@@ -149,42 +149,42 @@
   },
   "active": "55969c07266549d6",
   "lastOpenFiles": [
-    "Study Languages/C ++/6 - Pointers and References/Aula 5.md",
-    "Study Languages/C ++/6 - Pointers and References/Aula 6.md",
-    "Study Languages/C ++/7 - Structures and Enumerations/Aula 4.md",
-    "Study Languages/C ++/7 - Structures and Enumerations/Aula 3.md",
-    "Study Languages/C ++/7 - Structures and Enumerations/Aula 2.md",
-    "Study Languages/C ++/7 - Structures and Enumerations/Aula 1.md",
-    "Study Languages/C ++/6 - Pointers and References/Aula 4.md",
-    "Study Languages/C ++/6 - Pointers and References/Aula 1.md",
-    "Study Languages/C ++/5 - Arrays and Strings/Aula 2.md",
-    "Study Languages/C ++/5 - Arrays and Strings/Aula 3.md",
-    "Study Languages/C ++/5 - Arrays and Strings/Aula 1.md",
-    "Study Languages/C ++/1 - Introduction to C++/Aula 1.md",
-    "Study Languages/C ++/4 - Functions/Aula 5.md",
-    "Study Languages/C ++/4 - Functions/Aula 4.md",
-    "Study Languages/C ++/4 - Functions/Aula 3.md",
-    "Study Languages/C ++/4 - Functions/Aula 1.md",
-    "Study Languages/C ++/3 - Flow Control/Aula 10.md",
-    "Study Languages/C ++/3 - Flow Control/Aula 9.md",
-    "Study Languages/C ++/3 - Flow Control/Aula 8.md",
-    "Study Languages/C ++/3 - Flow Control/Aula 7.md",
-    "Study Languages/C ++/3 - Flow Control/Aula 6.md",
-    "Study Languages/C ++/3 - Flow Control/Aula 5.md",
-    "Study Languages/C ++/3 - Flow Control/Aula 3.md",
-    "Study Languages/C ++/3 - Flow Control/Aula 2.md",
-    "Study Languages/C ++/3 - Flow Control/Aula 1.md",
-    "Study Languages/C ++/1 - Introduction to C++/Aula 2.md",
+    "Study Languages/Javascript/9 - Miscellaneous/Aula 9.md",
+    "Study Languages/Javascript/9 - Miscellaneous/Aula 10.md",
+    "Study Languages/Javascript/9 - Miscellaneous/Aula 8.md",
+    "Study Languages/Javascript/9 - Miscellaneous/Aula 7.md",
+    "Study Languages/Javascript/9 - Miscellaneous/Aula 6.md",
+    "Study Languages/Javascript/9 - Miscellaneous/Aula 5.md",
+    "Study Languages/Javascript/9 - Miscellaneous/Aula 4.md",
+    "Study Languages/Javascript/9 - Miscellaneous/Aula 3.md",
+    "Study Languages/Javascript/9 - Miscellaneous/Aula 2.md",
+    "Study Languages/Javascript/9 - Miscellaneous/Aula 1.md",
+    "Study Languages/Javascript/8 - JavaScript Asynchronous/Aula 5.md",
+    "Study Languages/Javascript/9 - Miscellaneous",
+    "Study Languages/Javascript/8 - JavaScript Asynchronous/Aula 4.md",
+    "Study Languages/Javascript/8 - JavaScript Asynchronous/Aula 3.md",
+    "Study Languages/Javascript/8 - JavaScript Asynchronous/Aula 2.md",
+    "Study Languages/Javascript/8 - JavaScript Asynchronous/Aula 1.md",
+    "Study Languages/Javascript/7 - JS ES6/Aula 12.md",
+    "Study Languages/Javascript/8 - JavaScript Asynchronous",
+    "Study Languages/Javascript/7 - JS ES6/Aula 11.md",
+    "Study Languages/Javascript/7 - JS ES6/Aula 10.md",
+    "Study Languages/Javascript/7 - JS ES6/Aula 9.md",
+    "Study Languages/Javascript/7 - JS ES6/Aula 8.md",
+    "Study Languages/Javascript/7 - JS ES6/Aula 7.md",
+    "Study Languages/Javascript/7 - JS ES6/Aula 6.md",
+    "Study Languages/Javascript/7 - JS ES6/Aula 5.md",
+    "Study Languages/Javascript/7 - JS ES6/Aula 4.md",
+    "Study Languages/Javascript/7 - JS ES6/Aula 3.md",
+    "Study Languages/Javascript/7 - JS ES6/Aula 2.md",
+    "Study Languages/Javascript/7 - JS ES6",
+    "Study Languages/Javascript/6 - Exceptions and Modules",
+    "Study Languages/Javascript/5 - JS Types",
+    "Study Languages/Javascript/4- JS Objects",
+    "Study Languages/Javascript/3- JS Functions",
+    "Study Languages/Javascript/2 - Control Flow",
+    "Study Languages/Javascript/1 - JS Introduction",
     "Study Languages/Javascript/Typescript",
-    "Study Languages/Go",
-    "Study Languages/Rust",
-    "Study Languages/Javascript",
-    "Study Languages/Python",
-    "Study Languages/C ++/14 - Advanced Topics",
-    "Study Languages/C ++/13 - Additional Topics",
-    "Study Languages/C ++/12 - STL - Iterators & Algorithms",
-    "Study Languages/C ++/11 - STL - Map & Set",
-    "Study Languages/C ++/10 - STL - Vector, Queue & Stack",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "networking/networking-pics/DNS-1.png",
