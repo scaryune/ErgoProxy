@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Languages/Javascript/9 - Miscellaneous/Aula 10.md",
+                "file": "Study Languages/Go/6 - Go Additional Topics/Aula 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Languages/Javascript/9 - Miscellaneous/Aula 10.md",
+                "file": "Study Languages/Go/6 - Go Additional Topics/Aula 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Languages/Javascript/9 - Miscellaneous/Aula 10.md",
+                "file": "Study Languages/Go/6 - Go Additional Topics/Aula 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Languages/Javascript/9 - Miscellaneous/Aula 10.md"
+                "file": "Study Languages/Go/6 - Go Additional Topics/Aula 5.md"
               }
             }
           }
@@ -149,42 +149,42 @@
   },
   "active": "55969c07266549d6",
   "lastOpenFiles": [
-    "Study Languages/Javascript/9 - Miscellaneous/Aula 9.md",
-    "Study Languages/Javascript/9 - Miscellaneous/Aula 10.md",
-    "Study Languages/Javascript/9 - Miscellaneous/Aula 8.md",
-    "Study Languages/Javascript/9 - Miscellaneous/Aula 7.md",
-    "Study Languages/Javascript/9 - Miscellaneous/Aula 6.md",
-    "Study Languages/Javascript/9 - Miscellaneous/Aula 5.md",
-    "Study Languages/Javascript/9 - Miscellaneous/Aula 4.md",
-    "Study Languages/Javascript/9 - Miscellaneous/Aula 3.md",
-    "Study Languages/Javascript/9 - Miscellaneous/Aula 2.md",
-    "Study Languages/Javascript/9 - Miscellaneous/Aula 1.md",
-    "Study Languages/Javascript/8 - JavaScript Asynchronous/Aula 5.md",
-    "Study Languages/Javascript/9 - Miscellaneous",
-    "Study Languages/Javascript/8 - JavaScript Asynchronous/Aula 4.md",
-    "Study Languages/Javascript/8 - JavaScript Asynchronous/Aula 3.md",
-    "Study Languages/Javascript/8 - JavaScript Asynchronous/Aula 2.md",
-    "Study Languages/Javascript/8 - JavaScript Asynchronous/Aula 1.md",
-    "Study Languages/Javascript/7 - JS ES6/Aula 12.md",
-    "Study Languages/Javascript/8 - JavaScript Asynchronous",
-    "Study Languages/Javascript/7 - JS ES6/Aula 11.md",
-    "Study Languages/Javascript/7 - JS ES6/Aula 10.md",
-    "Study Languages/Javascript/7 - JS ES6/Aula 9.md",
-    "Study Languages/Javascript/7 - JS ES6/Aula 8.md",
-    "Study Languages/Javascript/7 - JS ES6/Aula 7.md",
-    "Study Languages/Javascript/7 - JS ES6/Aula 6.md",
-    "Study Languages/Javascript/7 - JS ES6/Aula 5.md",
-    "Study Languages/Javascript/7 - JS ES6/Aula 4.md",
-    "Study Languages/Javascript/7 - JS ES6/Aula 3.md",
-    "Study Languages/Javascript/7 - JS ES6/Aula 2.md",
-    "Study Languages/Javascript/7 - JS ES6",
-    "Study Languages/Javascript/6 - Exceptions and Modules",
-    "Study Languages/Javascript/5 - JS Types",
-    "Study Languages/Javascript/4- JS Objects",
-    "Study Languages/Javascript/3- JS Functions",
-    "Study Languages/Javascript/2 - Control Flow",
-    "Study Languages/Javascript/1 - JS Introduction",
-    "Study Languages/Javascript/Typescript",
+    "Study Languages/Go/6 - Go Additional Topics/Aula 1.md",
+    "Study Languages/Go/6 - Go Additional Topics/Aula 2.md",
+    "Study Languages/Go/6 - Go Additional Topics/Aula 3.md",
+    "Study Languages/Go/6 - Go Additional Topics/Aula 4.md",
+    "Study Languages/Go/6 - Go Additional Topics/Aula 5.md",
+    "Study Languages/Go/6 - Go Additional Topics/Aula 8.md",
+    "Study Languages/Go/5 - Go Pointers & Interface/Aula 6.md",
+    "Study Languages/Go/5 - Go Pointers & Interface/Aula 5.md",
+    "Study Languages/Go/6 - Go Additional Topics",
+    "Study Languages/Go/5 - Go Pointers & Interface/Aula 4.md",
+    "Study Languages/Go/5 - Go Pointers & Interface/Aula 3.md",
+    "Study Languages/Go/5 - Go Pointers & Interface/Aula 2.md",
+    "Study Languages/Go/5 - Go Pointers & Interface/Aula 1.md",
+    "Study Languages/Go/4 - Go Functions/Aula 6.md",
+    "Study Languages/Go/5 - Go Pointers & Interface",
+    "Study Languages/Go/4 - Go Functions/Aula 5.md",
+    "Study Languages/Go/4 - Go Functions/Aula 4.md",
+    "Study Languages/Go/4 - Go Functions/Aula 3.md",
+    "Study Languages/Go/4 - Go Functions/Aula 2.md",
+    "Study Languages/Go/4 - Go Functions/Aula 1.md",
+    "Study Languages/Go/3 - Go Data Structures/Aula 6.md",
+    "Study Languages/Go/4 - Go Functions",
+    "Study Languages/Go/3 - Go Data Structures/Aula 5.md",
+    "Study Languages/Go/3 - Go Data Structures/Aula 4.md",
+    "Study Languages/Go/3 - Go Data Structures/Aula 3.md",
+    "Study Languages/Go/3 - Go Data Structures/Aula 2.md",
+    "Study Languages/Go/3 - Go Data Structures/Aula 1.md",
+    "Study Languages/Go/2 - Go Flow Control/Aula 7.md",
+    "Study Languages/Go/3 - Go Data Structures",
+    "Study Languages/Go/2 - Go Flow Control/Aula 6.md",
+    "Study Languages/Go/2 - Go Flow Control/Untitled",
+    "Study Languages/Go/2 - Go Flow Control",
+    "Study Languages/Go/1 - Go Introduction",
+    "Study Languages/Rust/8 - Rust Additional Topics",
+    "Study Languages/Rust/7 - Rust Modules and Packages",
+    "Study Languages/Rust/6 - Rust Error and Memory",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "networking/networking-pics/DNS-1.png",
