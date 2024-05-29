@@ -112,7 +112,3 @@ Rules for Type Conversion
 
 ---
 
-**Also Read:**
-
-- [JavaScript Dates to Numbers](https://www.programiz.com/javascript/examples/convert-date-number)
-- [JavaScript Dates to Strings](https://www.programiz.com/javascript/examples/display-current-date)

@@ -17,13 +17,13 @@ We use arithmetic operators to perform addition, subtraction, multiplication, an
 
 Here's a list of various arithmetic operators available in Rust. We have used the variable names `a` and `b` in the example.
 
-|Operator|Example|
-|---|---|
-|`+` (Addition)|`a + b`|
-|`-` (Subtraction)|`a - b`|
-|`*` (Multiplication)|`a * b`|
-|`/` (Division)|`a / b`|
-|`%` (Remainder)|`a % b`|
+| Operator             | Example |
+| -------------------- | ------- |
+| `+` (Addition)       | `a + b` |
+| `-` (Subtraction)    | `a - b` |
+| `*` (Multiplication) | `a * b` |
+| `/` (Division)       | `a / b` |
+| `%` (Remainder)      | `a % b` |
 
 ### Example 1: Addition, Subtraction and Multiplication Operators
 

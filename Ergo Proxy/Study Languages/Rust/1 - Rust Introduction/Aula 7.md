@@ -15,7 +15,7 @@ Here, `decimal as u16;` expression converts `f64` floating-point type to `u
 ---
 
 ### Example: Rust Type Casting
-
+ 
 ```
 fn main() {
     // assign a floating point f64 value to decimal variable

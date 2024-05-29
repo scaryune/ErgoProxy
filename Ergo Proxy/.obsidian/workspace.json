@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Languages/Go/1 - Go Introduction/Aula 1.md",
+                "file": "Study Languages/Javascript/6 - Exceptions and Modules/Aula 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4d8de64405cc3a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study Languages/Javascript/2 - Control Flow/Aula 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Languages/Go/1 - Go Introduction/Aula 1.md",
+                "file": "Study Languages/Javascript/2 - Control Flow/Aula 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Languages/Go/1 - Go Introduction/Aula 1.md",
+                "file": "Study Languages/Javascript/2 - Control Flow/Aula 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Languages/Go/1 - Go Introduction/Aula 1.md"
+                "file": "Study Languages/Javascript/2 - Control Flow/Aula 1.md"
               }
             }
           }
@@ -147,34 +160,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4eaeca8c518205b",
+  "active": "d4d8de64405cc3a8",
   "lastOpenFiles": [
-    "tryhackme-learning/pic/1b42f69b00cfb7f24f1e99337c271078.svg",
-    "tryhackme-learning/Burp Suite  The Basics.md",
-    "tryhackme-learning/Walking An Application.md",
-    "tryhackme-learning/Principles of Security.md",
-    "tryhackme-learning/Pentesting Fundamentals.md",
-    "tryhackme-practice/Basic Pentesting.md",
-    "Study Languages/Rust/1 - Rust Introduction/Aula 1.md",
-    "Study Languages/Rust/1 - Rust Introduction/Aula 2.md",
-    "overthewire.md",
-    "obsidian-help.md",
-    "README.md",
-    "links.md",
-    "arch.md",
-    "www/search-engines.md",
-    "www/proxy.md",
-    "www/HTTP-request.md",
+    "Study Languages/Javascript/1 - JS Introduction/Aula 7.md",
+    "Study Languages/Javascript/1 - JS Introduction/Aula 5.md",
+    "Study Languages/Javascript/1 - JS Introduction/Aula 6.md",
+    "Study Languages/Javascript/1 - JS Introduction/Aula 4.md",
+    "Study Languages/Javascript/1 - JS Introduction/Aula 3.md",
+    "Study Languages/Javascript/1 - JS Introduction/Aula 2.md",
+    "Study Languages/Javascript/1 - JS Introduction/Aula 1.md",
+    "Study Languages/Javascript/6 - Exceptions and Modules/Aula 1.md",
+    "wsl.md",
+    "Study Languages/Rust/2 - Rust Control Flow/Aula 6.md",
+    "Study Languages/Rust/2 - Rust Control Flow/Aula 3.md",
+    "Study Languages/Rust/2 - Rust Control Flow/Aula 2.md",
+    "Study Languages/Rust/2 - Rust Control Flow/Aula 1.md",
+    "Study Languages/Rust/1 - Rust Introduction/Aula 8.md",
+    "Study Languages/Rust/1 - Rust Introduction/Aula 7.md",
+    "Study Languages/Rust/1 - Rust Introduction/Aula 6.md",
     "Study Languages/Rust/1 - Rust Introduction/Aula 5.md",
     "Study Languages/Rust/1 - Rust Introduction/Aula 4.md",
     "Study Languages/Rust/1 - Rust Introduction/Aula 3.md",
-    "Study Languages/Python/1 - Python Introduction/Aula 1.md",
-    "Study Languages/Python/1 - Python Introduction/Aula 2.md",
-    "Study Languages/Python/1 - Python Introduction/Aula 3.md",
-    "Study Languages/Python/2 - Python Fundamentals/Aula 4.md",
-    "Study Languages/Python/2 - Python Fundamentals/Aula 3.md",
-    "Study Languages/Python/2 - Python Fundamentals/Aula 2.md",
-    "Study Languages/Python/2 - Python Fundamentals/Aula 1.md",
+    "Study Languages/Rust/1 - Rust Introduction/Aula 2.md",
+    "Study Languages/Rust/1 - Rust Introduction/Aula 1.md",
+    "Learning/1.FoundationalKnowledge.md",
+    "Study Languages/Javascript/3- JS Functions/Aula 4.md",
+    "CS50'S",
+    "Study Languages/Javascript/3- JS Functions/Aula 3.md",
+    "Study Languages/Javascript/3- JS Functions/Aula 1.md",
+    "Study Languages/Javascript/3- JS Functions/Aula 2.md",
+    "tryhackme-learning/pic/1b42f69b00cfb7f24f1e99337c271078.svg",
     "Study Languages/Python/11 - Additional Topic",
     "Study Languages/Python/10 - Python Date and Time",
     "Study Languages/Python/9 - Python Advanced Topics",
@@ -185,7 +200,6 @@
     "Study Languages/Python/5 - Python Functions",
     "Study Languages/Python/4 - Python Data types",
     "Study Languages/Python/3 - Python Flow Control",
-    "Study Languages/Python/2 - Python Fundamentals",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "networking/networking-pics/DNS-1.png",
@@ -195,7 +209,6 @@
     "tryhackme-learning/pic/Pasted image 20231105135546.png",
     "tryhackme-learning/pic/Pasted image 20231105135336.png",
     "tryhackme-learning/pic/Pasted image 20231104141702.png",
-    "tryhackme-learning/pic/Pasted image 20231031183350.png",
-    "tryhackme-learning/pic/Pasted image 20231031183338.png"
+    "tryhackme-learning/pic/Pasted image 20231031183350.png"
   ]
 }
