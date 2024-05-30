@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Develpment Study/Internet.md",
-                "mode": "preview",
+                "file": "Web Development Study/Javacript/Aula 4.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Develpment Study/Internet.md",
+                "file": "Web Development Study/Javacript/Aula 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Develpment Study/Internet.md",
+                "file": "Web Development Study/Javacript/Aula 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Develpment Study/Internet.md"
+                "file": "Web Development Study/Javacript/Aula 4.md"
               }
             }
           }
@@ -160,14 +160,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4d8de64405cc3a8",
+  "active": "c4eaeca8c518205b",
   "lastOpenFiles": [
+    "Game Development Study",
+    "Web Development Study/Javacript/Aula 3.md",
+    "Web Development Study/Javacript/Aula 4.md",
+    "Web Development Study/Javacript/Aula 2.md",
+    "Web Development Study/Javacript/Aula 1.md",
+    "Web Development Study/Javacript",
+    "Web Development Study/Internet.md",
     "www/search-engines.md",
     "www/proxy.md",
     "www/HTTP-request.md",
-    "Web Develpment Study/Internet.md",
     "Study Languages/Javascript/2 - Control Flow/Aula 1.md",
-    "Web Develpment Study",
+    "Web Development Study",
     "Study Languages/Javascript/1 - JS Introduction/Aula 7.md",
     "Study Languages/Javascript/1 - JS Introduction/Aula 5.md",
     "Study Languages/Javascript/1 - JS Introduction/Aula 6.md",
@@ -184,11 +190,6 @@
     "Study Languages/Rust/1 - Rust Introduction/Aula 8.md",
     "Study Languages/Rust/1 - Rust Introduction/Aula 7.md",
     "Study Languages/Rust/1 - Rust Introduction/Aula 6.md",
-    "Study Languages/Rust/1 - Rust Introduction/Aula 5.md",
-    "Study Languages/Rust/1 - Rust Introduction/Aula 4.md",
-    "Study Languages/Rust/1 - Rust Introduction/Aula 3.md",
-    "Study Languages/Rust/1 - Rust Introduction/Aula 2.md",
-    "Study Languages/Rust/1 - Rust Introduction/Aula 1.md",
     "CS50'S",
     "tryhackme-learning/pic/1b42f69b00cfb7f24f1e99337c271078.svg",
     "Study Languages/Python/11 - Additional Topic",
@@ -199,7 +200,6 @@
     "Study Languages/Python/6 - Python Files",
     "CTF-walkthroughs/walkthrough-pics/vaccine-HTB-1.png",
     "Study Languages/Python/5 - Python Functions",
-    "Study Languages/Python/4 - Python Data types",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "networking/networking-pics/DNS-1.png",
