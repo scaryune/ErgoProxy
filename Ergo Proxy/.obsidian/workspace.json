@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55969c07266549d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Languages/Javascript/6 - Exceptions and Modules/Aula 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d4d8de64405cc3a8",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,11 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4eaeca8c518205b",
+  "active": "d4d8de64405cc3a8",
   "lastOpenFiles": [
+    "Study Languages/Javascript/6 - Exceptions and Modules/Aula 1.md",
+    "Web Development Study/Javacript/Aula 4.md",
     "Game Development Study",
     "Web Development Study/Javacript/Aula 3.md",
-    "Web Development Study/Javacript/Aula 4.md",
     "Web Development Study/Javacript/Aula 2.md",
     "Web Development Study/Javacript/Aula 1.md",
     "Web Development Study/Javacript",
@@ -181,7 +169,6 @@
     "Study Languages/Javascript/1 - JS Introduction/Aula 3.md",
     "Study Languages/Javascript/1 - JS Introduction/Aula 2.md",
     "Study Languages/Javascript/1 - JS Introduction/Aula 1.md",
-    "Study Languages/Javascript/6 - Exceptions and Modules/Aula 1.md",
     "wsl.md",
     "Study Languages/Rust/2 - Rust Control Flow/Aula 6.md",
     "Study Languages/Rust/2 - Rust Control Flow/Aula 3.md",
@@ -199,7 +186,6 @@
     "Study Languages/Python/7 - Python Exception Handling",
     "Study Languages/Python/6 - Python Files",
     "CTF-walkthroughs/walkthrough-pics/vaccine-HTB-1.png",
-    "Study Languages/Python/5 - Python Functions",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "networking/networking-pics/DNS-1.png",
