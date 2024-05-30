@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Languages/Javascript/2 - Control Flow/Aula 1.md",
-                "mode": "source",
+                "file": "Web Develpment Study/Internet.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Languages/Javascript/2 - Control Flow/Aula 1.md",
+                "file": "Web Develpment Study/Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Languages/Javascript/2 - Control Flow/Aula 1.md",
+                "file": "Web Develpment Study/Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Languages/Javascript/2 - Control Flow/Aula 1.md"
+                "file": "Web Develpment Study/Internet.md"
               }
             }
           }
@@ -162,6 +162,12 @@
   },
   "active": "d4d8de64405cc3a8",
   "lastOpenFiles": [
+    "www/search-engines.md",
+    "www/proxy.md",
+    "www/HTTP-request.md",
+    "Web Develpment Study/Internet.md",
+    "Study Languages/Javascript/2 - Control Flow/Aula 1.md",
+    "Web Develpment Study",
     "Study Languages/Javascript/1 - JS Introduction/Aula 7.md",
     "Study Languages/Javascript/1 - JS Introduction/Aula 5.md",
     "Study Languages/Javascript/1 - JS Introduction/Aula 6.md",
@@ -183,12 +189,7 @@
     "Study Languages/Rust/1 - Rust Introduction/Aula 3.md",
     "Study Languages/Rust/1 - Rust Introduction/Aula 2.md",
     "Study Languages/Rust/1 - Rust Introduction/Aula 1.md",
-    "Learning/1.FoundationalKnowledge.md",
-    "Study Languages/Javascript/3- JS Functions/Aula 4.md",
     "CS50'S",
-    "Study Languages/Javascript/3- JS Functions/Aula 3.md",
-    "Study Languages/Javascript/3- JS Functions/Aula 1.md",
-    "Study Languages/Javascript/3- JS Functions/Aula 2.md",
     "tryhackme-learning/pic/1b42f69b00cfb7f24f1e99337c271078.svg",
     "Study Languages/Python/11 - Additional Topic",
     "Study Languages/Python/10 - Python Date and Time",
@@ -199,7 +200,6 @@
     "CTF-walkthroughs/walkthrough-pics/vaccine-HTB-1.png",
     "Study Languages/Python/5 - Python Functions",
     "Study Languages/Python/4 - Python Data types",
-    "Study Languages/Python/3 - Python Flow Control",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "networking/networking-pics/DNS-1.png",
