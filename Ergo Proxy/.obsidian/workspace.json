@@ -11,36 +11,13 @@
             "id": "d4d8de64405cc3a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Web Development Study/Javacript/Aula 4.md",
-                "mode": "source",
-                "source": false
+                "file": "tryhackme-learning/pic/6c2f888c43adca666a5850516b67bad6.svg"
               }
-            }
-          },
-          {
-            "id": "84b6f8dd72d7d584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unnistal distro wsl.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09d4e0aabe59b187",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tryhackme-learning/pic/6c2f888c43adca666a5850516b67bad6.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tryhackme-learning/pic/6c2f888c43adca666a5850516b67bad6.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tryhackme-learning/pic/6c2f888c43adca666a5850516b67bad6.svg"
+              }
             }
           }
         ],
@@ -164,18 +145,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09d4e0aabe59b187",
+  "active": "c4eaeca8c518205b",
   "lastOpenFiles": [
-    "unnistal distro wsl.md",
-    "Untitled.md",
+    "Web Development Study/Internet.md",
     "Web Development Study/Javacript/Aula 4.md",
-    "Study Languages/Javascript/6 - Exceptions and Modules/Aula 1.md",
-    "Game Development Study",
     "Web Development Study/Javacript/Aula 3.md",
     "Web Development Study/Javacript/Aula 2.md",
     "Web Development Study/Javacript/Aula 1.md",
+    "arch.md",
+    "unnistal distro wsl.md",
+    "Study Languages/C ++/1 - Introduction to C++/Aula 1.md",
+    "Untitled.md",
+    "Study Languages/Javascript/6 - Exceptions and Modules/Aula 1.md",
+    "Game Development Study",
     "Web Development Study/Javacript",
-    "Web Development Study/Internet.md",
     "www/search-engines.md",
     "www/proxy.md",
     "www/HTTP-request.md",
@@ -193,8 +176,6 @@
     "Study Languages/Rust/2 - Rust Control Flow/Aula 3.md",
     "Study Languages/Rust/2 - Rust Control Flow/Aula 2.md",
     "Study Languages/Rust/2 - Rust Control Flow/Aula 1.md",
-    "Study Languages/Rust/1 - Rust Introduction/Aula 8.md",
-    "Study Languages/Rust/1 - Rust Introduction/Aula 7.md",
     "CS50'S",
     "tryhackme-learning/pic/1b42f69b00cfb7f24f1e99337c271078.svg",
     "Study Languages/Python/11 - Additional Topic",
