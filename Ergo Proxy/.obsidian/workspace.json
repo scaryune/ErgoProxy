@@ -16,8 +16,29 @@
                 "file": "tryhackme-learning/pic/6c2f888c43adca666a5850516b67bad6.svg"
               }
             }
+          },
+          {
+            "id": "ce87aa0e1c9f42e1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
+          },
+          {
+            "id": "1428e28f1d18c7ab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4eaeca8c518205b",
+  "active": "1428e28f1d18c7ab",
   "lastOpenFiles": [
     "Web Development Study/Internet.md",
     "Web Development Study/Javacript/Aula 4.md",
